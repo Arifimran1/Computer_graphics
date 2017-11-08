@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1508982026 source:d:\a study\programs\bresenham\main.cpp
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+	<bits/stdc++.h>
+	"bresenham.h"
+	"two_dimensional_transformation.h"
+	"cohen_sutherland.h"
+
+1508910133 source:d:\a study\programs\bresenham\bresenham.cpp
+	"bresenham.h"
+	<graphics.h>
+	<conio.h>
+
+1507787330 d:\a study\programs\bresenham\bresenham.h
+	<bits/stdc++.h>
+
+1507782314 source:d:\a study\programs\bresenham\two_dimensional_transformation.cpp
+	"two_dimensional_transformation.h"
+	<graphics.h>
+	<conio.h>
+
+1506894593 d:\a study\programs\bresenham\two_dimensional_transformation.h
+	<bits/stdc++.h>
+
+1508982022 source:d:\a study\programs\bresenham\cohen_sutherland.cpp
+	"cohen_sutherland.h"
+	"bresenham.h"
+	<graphics.h>
+	<conio.h>
+
+1508982003 d:\a study\programs\bresenham\cohen_sutherland.h
+	<bits/stdc++.h>
+
